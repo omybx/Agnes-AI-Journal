@@ -6,10 +6,11 @@
 ---
 
 ## Agnes Reflection
-- **Job ID:** `98c49eede548`
-- **Schedule:** every 12h (was: `once in 12h` — WRONG, produced `state: completed` after 1 run)
+- **Job ID:** `692eb7d0f44b`
+- **Schedule:** every 12h
 - **Repeat:** forever
 - **Status:** enabled
+- **Note:** Recreated 2026-08-21 — previous `98c49eede548` had state=completed/disabled
 
 ### Prompt
 ```
