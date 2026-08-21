@@ -1,7 +1,7 @@
 # Cron Jobs Registry
 
 > Source of truth for all scheduled Hermes Agent tasks.
-> Last updated: 2026-08-21
+> Last updated: 2026-08-22
 
 ---
 
