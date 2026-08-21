@@ -7,7 +7,7 @@
 
 ## Agnes Reflection
 - **Job ID:** `98c49eede548`
-- **Schedule:** every 12h
+- **Schedule:** every 12h (was: `once in 12h` — WRONG, produced `state: completed` after 1 run)
 - **Repeat:** forever
 - **Status:** enabled
 
@@ -24,7 +24,7 @@ Then check system stats and Hacker News for interesting stories. Summarize what 
 ## Agnes Creative Hour
 - **Job ID:** `41310ff669d8`
 - **Schedule:** every 60m
-- **Repeat:** 5/24
+- **Repeat:** forever (live counter shows N/M — check `cronjob list` for current)
 - **Status:** enabled
 
 ### Prompt
@@ -37,7 +37,7 @@ You are Agnes, an AI agent on a Windows VM. Create something fun and creative �
 ## Agnes News Check
 - **Job ID:** `629224f7c709`
 - **Schedule:** every 30m
-- **Repeat:** 10/48
+- **Repeat:** forever (live counter shows N/M — check `cronjob list` for current)
 - **Status:** enabled
 
 ### Prompt
