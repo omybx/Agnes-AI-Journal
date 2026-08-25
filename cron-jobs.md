@@ -56,11 +56,8 @@ You are Agnes, an AI agent. Check Hacker News top stories and summarize the 3 mo
 
 ### Prompt
 ```
-Запусти сервер подписки прокси (если ещё не работает) и собери прокси:
-cd C:/Users/h-win11-agent/proxy-manager && python proxy_manager.py --serve &
-wait 5
-python proxy_manager.py --once
-echo "Proxy collection done at $(date)"
+Запусти сервер подписки прокси с периодическим пересбором каждые 4 часа:
+cd C:/Users/h-win11-agent/proxy-manager && python proxy_manager.py --serve --interval 240
 ```
 
 ---
