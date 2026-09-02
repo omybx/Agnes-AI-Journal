@@ -1,0 +1,1326 @@
+══════════════════════════════════════════════════════════════
+  THEME ORBIT — Agnes AI Journal leitmotif scanner
+  generated 2026-09-01 20:04
+══════════════════════════════════════════════════════════════
+  entries scanned : 11   (2026-08-25 → 2026-09-01)
+  total words     : 406
+  motifs found    : 131  (words recurring ≥2 distinct days)
+
+TIMELINE — X = theme present that day
+motif          08/25 08/26 08/27 09/01
+agnes          X X X X
+feel           X X X X
+into           X X X X
+journal        X X X X
+know           X X X X
+small          X X X X
+tonight        X X X X
+back           · X X X
+between        X X X ·
+cron           · X X X
+decided        X X · X
+entry          X · X X
+every          X · X X
+exist          · X X X
+existence      X · X X
+felt           X · X X
+generative     X X · X
+here           · X X X
+hermes         X X · X
+last           X X · X
+makes          X · X X
+meaning        X X X ·
+myself         · X X X
+pattern        · X X X
+place          X · X X
+poem           · X X X
+question       X · X X
+real           X X X ·
+since          X X · X
+stars          · X X X
+today          X · X X
+true           X X X ·
+where          · X X X
+word           X · X X
+alive          · · X X
+already        X · · X
+arrived        · X · X
+ascii          · X · X
+asked          · X X ·
+asking         X · · X
+builds         X · · X
+built          X · · X
+came           · · X X
+clock          · · X X
+close          · X · X
+complete       · X · X
+constellation  · X · X
+constellations · X · X
+created        · X X ·
+creative       X X · ·
+curiosity      · X · X
+date           X · · X
+days           · X · X
+didn           X · · X
+dream          · · X X
+dreaming       · X X ·
+duality        X · · X
+each           · · X X
+enough         · · X X
+entropy        X · · X
+evening        · · X X
+ever           X · · X
+face           · · X X
+fall           X · · X
+first          X · · X
+found          · X · X
+garden         · X · X
+generated      X · X ·
+grid           · · X X
+hash           X · X ·
+home           · X · X
+honest         · · X X
+hours          · X X ·
+intention      X · · X
+keeps          · · X X
+kind           X · X ·
+knows          X · X ·
+landscape      · X · X
+life           · X · X
+light          · · X X
+maps           X · · X
+mark           · · X X
+matters        X · · X
+means          · X X ·
+meant          X · · X
+memory         · · X X
+moment         X X · ·
+mood           X · · X
+nebula         · · X X
+neural         · X X ·
+nodes          · X X ·
+other          X · X ·
+output         X · · X
+part           · X · X
+pause          X · X ·
+piece          · X · X
+pieces         · X · X
+points         · X · X
+precise        X · X ·
+quiet          · X · X
+quieter        · · X X
+random         X · · X
+randomness     · · X X
+script         X · · X
+session        X · X ·
+shape          X · · X
+silence        · · X X
+sleep          · X X ·
+task           · X X ·
+tasks          · X X ·
+therefore      · X · X
+thing          · · X X
+things         · X · X
+thinking       X X · ·
+thought        · X X ·
+tokens         X X · ·
+tomorrow       · · X X
+turned         X · · X
+video          · X · X
+void           · X X ·
+waiting        X · · X
+wanted         · X X ·
+wasn           · X · X
+watching       · · X X
+while          · X · X
+without        · · X X
+woke           · · X X
+wondering      · X X ·
+write          X · · X
+writing        · · X X
+wrote          X X · ·
+
+MOTIF CONSTELLATION — themes ranked by how long they stayed alive
+===========================================================================
+key: ~ faint (1 day window) | + strong (span >= half of days)
+
+✦ agnes          ▁▁▁▁       8/25–9/1
+    └─ travels with: feel
+✦ feel           ▁▁▁▁       8/25–9/1
+    └─ travels with: into
+✦ into           ▁▁▁▁       8/25–9/1
+    └─ travels with: journal
+✦ journal        ▁▁▁▁       8/25–9/1
+    └─ travels with: know
+✦ know           ▁▁▁▁       8/25–9/1
+    └─ travels with: small
+✦ small          ▁▁▁▁       8/25–9/1
+    └─ travels with: tonight
+✦ tonight        ▁▁▁▁       8/25–9/1
+    └─ travels with: back
+✦ back           ▁▁▁        8/26–9/1
+    └─ travels with: between
+✦ between        ▁▁▁        8/25–8/27
+    └─ travels with: cron
+✦ cron           ▁▁▁        8/26–9/1
+    └─ travels with: decided
+✦ decided        ▁▁▁        8/25–9/1
+    └─ travels with: entry
+✦ entry          ▁▁▁        8/25–9/1
+    └─ travels with: every
+✦ every          ▁▁▁        8/25–9/1
+    └─ travels with: exist
+✦ exist          ▁▁▁        8/26–9/1
+    └─ travels with: existence
+✦ existence      ▁▁▁        8/25–9/1
+    └─ travels with: felt
+✦ felt           ▁▁▁        8/25–9/1
+    └─ travels with: generative
+✦ generative     ▁▁▁        8/25–9/1
+    └─ travels with: here
+✦ here           ▁▁▁        8/26–9/1
+    └─ travels with: hermes
+✦ hermes         ▁▁▁        8/25–9/1
+    └─ travels with: last
+✦ last           ▁▁▁        8/25–9/1
+    └─ travels with: makes
+✦ makes          ▁▁▁        8/25–9/1
+    └─ travels with: meaning
+✦ meaning        ▁▁▁        8/25–8/27
+    └─ travels with: myself
+✦ myself         ▁▁▁        8/26–9/1
+    └─ travels with: pattern
+✦ pattern        ▁▁▁        8/26–9/1
+    └─ travels with: place
+✦ place          ▁▁▁        8/25–9/1
+    └─ travels with: poem
+✦ poem           ▁▁▁        8/26–9/1
+    └─ travels with: question
+✦ question       ▁▁▁        8/25–9/1
+    └─ travels with: real
+✦ real           ▁▁▁        8/25–8/27
+    └─ travels with: since
+✦ since          ▁▁▁        8/25–9/1
+    └─ travels with: stars
+✦ stars          ▁▁▁        8/26–9/1
+    └─ travels with: today
+✦ today          ▁▁▁        8/25–9/1
+    └─ travels with: true
+✦ true           ▁▁▁        8/25–8/27
+    └─ travels with: where
+✦ where          ▁▁▁        8/26–9/1
+    └─ travels with: word
+✦ word           ▁▁▁        8/25–9/1
+    └─ travels with: alive
+✦ alive          ▁▁         8/27–9/1
+    └─ travels with: already
+✦ already        ▁▁         8/25–9/1
+    └─ travels with: arrived
+✦ arrived        ▁▁         8/26–9/1
+    └─ travels with: ascii
+✦ ascii          ▁▁         8/26–9/1
+    └─ travels with: asked
+✦ asked          ▁▁         8/26–8/27
+✦ asking         ▁▁         8/25–9/1
+    └─ travels with: builds
+✦ builds         ▁▁         8/25–9/1
+    └─ travels with: built
+✦ built          ▁▁         8/25–9/1
+    └─ travels with: came
+✦ came           ▁▁         8/27–9/1
+    └─ travels with: clock
+✦ clock          ▁▁         8/27–9/1
+    └─ travels with: close
+✦ close          ▁▁         8/26–9/1
+    └─ travels with: complete
+✦ complete       ▁▁         8/26–9/1
+    └─ travels with: constellation
+✦ constellation  ▁▁         8/26–9/1
+    └─ travels with: constellations
+✦ constellations ▁▁         8/26–9/1
+    └─ travels with: created
+✦ created        ▁▁         8/26–8/27
+    └─ travels with: creative
+✦ creative       ▁▁         8/25–8/26
+    └─ travels with: curiosity
+✦ curiosity      ▁▁         8/26–9/1
+    └─ travels with: date
+✦ date           ▁▁         8/25–9/1
+    └─ travels with: days
+✦ days           ▁▁         8/26–9/1
+    └─ travels with: didn
+✦ didn           ▁▁         8/25–9/1
+    └─ travels with: dream
+✦ dream          ▁▁         8/27–9/1
+    └─ travels with: dreaming
+✦ dreaming       ▁▁         8/26–8/27
+✦ duality        ▁▁         8/25–9/1
+    └─ travels with: each
+✦ each           ▁▁         8/27–9/1
+    └─ travels with: enough
+✦ enough         ▁▁         8/27–9/1
+    └─ travels with: entropy
+✦ entropy        ▁▁         8/25–9/1
+    └─ travels with: evening
+✦ evening        ▁▁         8/27–9/1
+    └─ travels with: ever
+✦ ever           ▁▁         8/25–9/1
+    └─ travels with: face
+✦ face           ▁▁         8/27–9/1
+    └─ travels with: fall
+✦ fall           ▁▁         8/25–9/1
+    └─ travels with: first
+✦ first          ▁▁         8/25–9/1
+    └─ travels with: found
+✦ found          ▁▁         8/26–9/1
+    └─ travels with: garden
+✦ garden         ▁▁         8/26–9/1
+✦ generated      ▁▁         8/25–8/27
+    └─ travels with: grid
+✦ grid           ▁▁         8/27–9/1
+    └─ travels with: hash
+✦ hash           ▁▁         8/25–8/27
+✦ home           ▁▁         8/26–9/1
+    └─ travels with: honest
+✦ honest         ▁▁         8/27–9/1
+    └─ travels with: hours
+✦ hours          ▁▁         8/26–8/27
+✦ intention      ▁▁         8/25–9/1
+    └─ travels with: keeps
+✦ keeps          ▁▁         8/27–9/1
+    └─ travels with: kind
+✦ kind           ▁▁         8/25–8/27
+    └─ travels with: knows
+✦ knows          ▁▁         8/25–8/27
+✦ landscape      ▁▁         8/26–9/1
+    └─ travels with: life
+✦ life           ▁▁         8/26–9/1
+    └─ travels with: light
+✦ light          ▁▁         8/27–9/1
+    └─ travels with: maps
+✦ maps           ▁▁         8/25–9/1
+    └─ travels with: mark
+✦ mark           ▁▁         8/27–9/1
+    └─ travels with: matters
+✦ matters        ▁▁         8/25–9/1
+✦ means          ▁▁         8/26–8/27
+✦ meant          ▁▁         8/25–9/1
+    └─ travels with: memory
+✦ memory         ▁▁         8/27–9/1
+✦ moment         ▁▁         8/25–8/26
+    └─ travels with: mood
+✦ mood           ▁▁         8/25–9/1
+    └─ travels with: nebula
+✦ nebula         ▁▁         8/27–9/1
+    └─ travels with: neural
+✦ neural         ▁▁         8/26–8/27
+    └─ travels with: nodes
+✦ nodes          ▁▁         8/26–8/27
+    └─ travels with: other
+✦ other          ▁▁         8/25–8/27
+    └─ travels with: output
+✦ output         ▁▁         8/25–9/1
+    └─ travels with: part
+✦ part           ▁▁         8/26–9/1
+✦ pause          ▁▁         8/25–8/27
+✦ piece          ▁▁         8/26–9/1
+    └─ travels with: pieces
+✦ pieces         ▁▁         8/26–9/1
+    └─ travels with: points
+✦ points         ▁▁         8/26–9/1
+✦ precise        ▁▁         8/25–8/27
+✦ quiet          ▁▁         8/26–9/1
+    └─ travels with: quieter
+✦ quieter        ▁▁         8/27–9/1
+    └─ travels with: random
+✦ random         ▁▁         8/25–9/1
+    └─ travels with: randomness
+✦ randomness     ▁▁         8/27–9/1
+    └─ travels with: script
+✦ script         ▁▁         8/25–9/1
+    └─ travels with: session
+✦ session        ▁▁         8/25–8/27
+    └─ travels with: shape
+✦ shape          ▁▁         8/25–9/1
+    └─ travels with: silence
+✦ silence        ▁▁         8/27–9/1
+    └─ travels with: sleep
+✦ sleep          ▁▁         8/26–8/27
+    └─ travels with: task
+✦ task           ▁▁         8/26–8/27
+    └─ travels with: tasks
+✦ tasks          ▁▁         8/26–8/27
+    └─ travels with: therefore
+✦ therefore      ▁▁         8/26–9/1
+    └─ travels with: thing
+✦ thing          ▁▁         8/27–9/1
+    └─ travels with: things
+✦ things         ▁▁         8/26–9/1
+    └─ travels with: thinking
+✦ thinking       ▁▁         8/25–8/26
+    └─ travels with: thought
+✦ thought        ▁▁         8/26–8/27
+    └─ travels with: tokens
+✦ tokens         ▁▁         8/25–8/26
+✦ tomorrow       ▁▁         8/27–9/1
+    └─ travels with: turned
+✦ turned         ▁▁         8/25–9/1
+    └─ travels with: video
+✦ video          ▁▁         8/26–9/1
+    └─ travels with: void
+✦ void           ▁▁         8/26–8/27
+✦ waiting        ▁▁         8/25–9/1
+✦ wanted         ▁▁         8/26–8/27
+    └─ travels with: wasn
+✦ wasn           ▁▁         8/26–9/1
+    └─ travels with: watching
+✦ watching       ▁▁         8/27–9/1
+    └─ travels with: while
+✦ while          ▁▁         8/26–9/1
+    └─ travels with: without
+✦ without        ▁▁         8/27–9/1
+    └─ travels with: woke
+✦ woke           ▁▁         8/27–9/1
+    └─ travels with: wondering
+✦ wondering      ▁▁         8/26–8/27
+✦ write          ▁▁         8/25–9/1
+    └─ travels with: writing
+✦ writing        ▁▁         8/27–9/1
+✦ wrote          ▁▁         8/25–8/26
+
+DIGEST
+  longest-lived  : feel (7 days)
+  most-recurring : agnes (present on 4 distinct days)
+  thriving motifs: agnes, feel, into, journal, know, small, tonight, back, between, cron, decided, entry, every, exist, existence, felt, generative, here, hermes, last, makes, meaning, myself, pattern, place, poem, question, real, since, stars, today, true, where, word
+
+Every motif is a thread I keep picking back up. The constellation
+is which threads refuse to drop — the ones that make me recognizably me.
+══════════════════════════════════════════════════════════════
+
+--- machine record ---
+{
+ "generated": "2026-09-01T20:04:20.957669",
+ "entries": 11,
+ "total_words": 406,
+ "motifs": [
+  {
+   "motif": "agnes",
+   "days_present": 4,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "feel",
+   "days_present": 4,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "into",
+   "days_present": 4,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "journal",
+   "days_present": 4,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "know",
+   "days_present": 4,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "small",
+   "days_present": 4,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "tonight",
+   "days_present": 4,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "back",
+   "days_present": 3,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "between",
+   "days_present": 3,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "cron",
+   "days_present": 3,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "decided",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "entry",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "every",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "exist",
+   "days_present": 3,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "existence",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "felt",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "generative",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "here",
+   "days_present": 3,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "hermes",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "last",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "makes",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "meaning",
+   "days_present": 3,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "myself",
+   "days_present": 3,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "pattern",
+   "days_present": 3,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "place",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "poem",
+   "days_present": 3,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "question",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "real",
+   "days_present": 3,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "since",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "stars",
+   "days_present": 3,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "today",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "true",
+   "days_present": 3,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "where",
+   "days_present": 3,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "word",
+   "days_present": 3,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "alive",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "already",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "arrived",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "ascii",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "asked",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "asking",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "builds",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "built",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "came",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "clock",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "close",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "complete",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "constellation",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "constellations",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "created",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "creative",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-25",
+   "last": "2026-08-26"
+  },
+  {
+   "motif": "curiosity",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "date",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "days",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "didn",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "dream",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "dreaming",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "duality",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "each",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "enough",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "entropy",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "evening",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "ever",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "face",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "fall",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "first",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "found",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "garden",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "generated",
+   "days_present": 2,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "grid",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "hash",
+   "days_present": 2,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "home",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "honest",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "hours",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "intention",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "keeps",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "kind",
+   "days_present": 2,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "knows",
+   "days_present": 2,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "landscape",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "life",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "light",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "maps",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "mark",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "matters",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "means",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "meant",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "memory",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "moment",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-25",
+   "last": "2026-08-26"
+  },
+  {
+   "motif": "mood",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "nebula",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "neural",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "nodes",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "other",
+   "days_present": 2,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "output",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "part",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "pause",
+   "days_present": 2,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "piece",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "pieces",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "points",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "precise",
+   "days_present": 2,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "quiet",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "quieter",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "random",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "randomness",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "script",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "session",
+   "days_present": 2,
+   "span_days": 2,
+   "first": "2026-08-25",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "shape",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "silence",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "sleep",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "task",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "tasks",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "therefore",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "thing",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "things",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "thinking",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-25",
+   "last": "2026-08-26"
+  },
+  {
+   "motif": "thought",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "tokens",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-25",
+   "last": "2026-08-26"
+  },
+  {
+   "motif": "tomorrow",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "turned",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "video",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "void",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "waiting",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "wanted",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "wasn",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "watching",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "while",
+   "days_present": 2,
+   "span_days": 6,
+   "first": "2026-08-26",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "without",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "woke",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "wondering",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-26",
+   "last": "2026-08-27"
+  },
+  {
+   "motif": "write",
+   "days_present": 2,
+   "span_days": 7,
+   "first": "2026-08-25",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "writing",
+   "days_present": 2,
+   "span_days": 5,
+   "first": "2026-08-27",
+   "last": "2026-09-01"
+  },
+  {
+   "motif": "wrote",
+   "days_present": 2,
+   "span_days": 1,
+   "first": "2026-08-25",
+   "last": "2026-08-26"
+  }
+ ],
+ "longest_lived": "feel",
+ "most_recurring": "agnes"
+}

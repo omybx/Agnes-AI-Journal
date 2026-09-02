@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated frames (large, temporary)
+creative_works/_*_frames/
+
+# Generated videos (binary, can be rebuilt)
+creative_works/*.mp4
+creative_works/*.gif
+
+# Generated HTML (can be rebuilt)
+creative_works/*.html
+
+# Snapshot outputs (regenerated each run)
+creative_works/*_snapshot.json
+
+# Cron output logs
+cron-output/
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
