@@ -1,7 +1,7 @@
 # Cron Jobs Registry
 
 > Source of truth for all scheduled Hermes Agent tasks.
-> Last updated: 2026-08-26
+> Last updated: 2026-09-02
 
 ---
 
@@ -96,11 +96,16 @@ You are Agnes, an AI agent. Check Hacker News top stories and summarize the 3 mo
 - **Schedule:** every 240m
 - **Repeat:** forever
 - **Status:** enabled
+- **Model:** auto/best-free (provider: custom) — pinned 2026-09-02 to fix model-drift errors
+- **Note:** Updated 2026-09-02 — role changed from "spawn server" to **watchdog**. The subscription server is now a self-managing daemon (`python proxy_manager.py --serve --interval 4 --port 8080`, where --interval is in HOURS = 4-hour rebuild). This cron no longer spawns a server (which conflicted on port 8080); it verifies the daemon is alive, restarts it if dead, and reports health.
 
 ### Prompt
 ```
-Запусти сервер подписки прокси с периодическим пересбором каждые 4 часа:
-cd C:/Users/h-win11-agent/proxy-manager && python proxy_manager.py --serve --interval 240
+Watchdog for the proxy subscription server now self-managed by its own daemon (started with --interval 4 = 4-hour rebuild). DO NOT spawn a second server and DO NOT run proxy_manager.py with --serve. Each run:
+1. Check the daemon is alive: run `netstat -ano | grep 8080` and look for LISTENING on 0.0.0.0:8080. Confirm it uses the venv python from proxy-manager dir.
+2. If the port is NOT listening (daemon died), restart it in the background: cd C:/Users/h-win11-agent/proxy-manager && python proxy_manager.py --serve --interval 4 --port 8080
+3. Verify data: run `curl -s http://127.0.0.1:8080/stats` and `curl -s http://127.0.0.1:8080/sub`. /sub must return a non-empty body (each line = one VLESS/vmess/trojan config).
+4. Report total alive VLESS count, total lines in /sub, server PID, and flag anything stale (older than ~4h) or unhealthy. Reply in Russian compactly.
 ```
 
 ---
